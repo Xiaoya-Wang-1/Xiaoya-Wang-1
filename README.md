@@ -1,71 +1,75 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Isla Wang
 
+# Hi, I'm Isla Wang <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## Software Engineer | AI Applications
+## Software Engineer | AI-Native Development
 
-I am a Master's student in Software Engineering at Northeastern University, with experience building AI-powered full-stack applications, backend services, and data-driven systems.
+I build reliable software systems and LLM-powered applications, leveraging AI agents to accelerate development, automate workflows, and solve real-world problems.
 
-- 🚀 Currently focusing on AI applications, full-stack development, and cloud technologies
-- 🤖 Experienced in building LLM-powered applications and scalable software systems
-- 🌱 Passionate about designing reliable and user-focused software solutions
-  
+M.S. in Software Engineering at Northeastern University
+
+## Engineering Focus
+
+- 🤖 **AI-Native Development** — Agent orchestration, context engineering, reusable skills, and AI-assisted code verification.
+- 🧠 **Applied AI** — LLM applications, RAG, tool calling, and intelligent data systems.
+- ⚙️ **Software Engineering** — System design, backend services, full-stack development, and reliability.
+- ☁️ **Cloud Infrastructure** — Distributed systems, containerization, automation, and observability.
+
 <br>
 
-- 🌍 Based in Seattle, WA
-- 💼 LinkedIn: [Xiaoya Wang](https://www.linkedin.com/in/xiaoya-wang/)
-- ✉️ Email: xiaoyaw001@gmail.com
+💼 LinkedIn: [Xiaoya Wang](https://www.linkedin.com/in/xiaoya-wang/)
+<br>
+✉️ Email: xiaoyaw001@gmail.com
 
+## Engineering Stack
 
-## 🛠 Skills
+### AI Engineering & Agentic Development
+
+<code>Claude&nbsp;Code</code>
+<code>AI&nbsp;Agents</code>
+<code>Agent&nbsp;Orchestration</code>
+<code>Context&nbsp;Engineering</code>
+<code>MCP</code>
+<code>Agent&nbsp;Skills</code>
+<code>Tool&nbsp;Calling</code>
+<code>LLM</code>
+<code>RAG</code>
+<code>Text-to-SQL</code>
 
 ### Languages
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=python,java,go,js,ts&theme=dark" alt="Programming Languages"/>
 </p>
 
+<code>SQL</code>
 
 ### Backend & Full Stack
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express,react,nextjs&theme=dark" alt="Backend and Full Stack"/>
 </p>
 
-
-### AI & Data
+### Databases & Data Engineering
 
 <p align="left">
-🤖 LLM Applications &nbsp;
-🔎 RAG &nbsp;
-🧠 Machine Learning
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&theme=dark" height="48" alt="Databases"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas"/>
 </p>
 
-
-### Cloud & DevOps
+### Cloud & Infrastructure
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git&theme=dark" alt="Cloud and Infrastructure"/>
 </p>
 
-## 🚀 Featured Projects
+## Featured Engineering Projects
 
-### ✈️ Airport Conversational AI Platform
+### Airport Conversational AI Platform | Port of Seattle
 
-LLM-powered assistant that integrates operational data 
-with natural language interaction.
+An LLM-powered platform that enables natural language access to complex airport operational data.
 
-- Built backend services and data pipelines
-- Integrated LLM APIs for intelligent querying
-- Developed visualization and monitoring components
+- Orchestrated Claude Code agents for development, testing, and iterative debugging.
+- Built reusable agent skills, plugins, and MCP integrations to automate engineering workflows.
+- Developed LLM-to-SQL pipelines with query validation, data visualization, and monitoring.
+
+**Impact:** Reduced airport information lookup from cross-team calls to seconds.
